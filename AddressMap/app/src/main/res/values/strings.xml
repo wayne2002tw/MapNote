@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AddressMap</string>
+    <string name="title_activity_maps_display">MapNote</string>
+</resources>
